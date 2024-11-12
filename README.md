@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham-1304
+- 👋 Hi, I’m @Soham-1304 also known as Soham Karandikar
 - 👀 I’m interested in learning about computer languages, how data works and cloud computing.
 - 🌱 I’m currently learning python and scratch programming
 - 💞️ I’m looking to collaborate on different open-source projects which use python
